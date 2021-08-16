@@ -4,5 +4,7 @@ This is a simple page built with HTML and CSS which describes the process of sta
 
 see the page in below code:
 
+https://rakeshakp.github.io/Technical-documentation-page/
+
 
 
